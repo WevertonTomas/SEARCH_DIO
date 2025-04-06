@@ -6,10 +6,10 @@ Documentação [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-
 
 
 ### #1
-![Azure AI Search resource](SEARCH_DIO/IMG/img1.png)
+![Azure AI Search resource](https://raw.githubusercontent.com/WevertonTomas/SEARCH_DIO/main/IMG/img1.png)
 
 ### #3
-![Azure AI Search resource](SEARCH_DIO/IMG/img2.png)
+![Azure AI Search resource](https://raw.githubusercontent.com/WevertonTomas/SEARCH_DIO/main/IMG/img2.png)
 
 ### #3
-![Azure AI Search resource](SEARCH_DIO/IMG/img3.png)
+![Azure AI Search resource](https://raw.githubusercontent.com/WevertonTomas/SEARCH_DIO/main/IMG/img3.png)
